@@ -1,0 +1,14 @@
+{
+  "name": "web-audio-components-filter",
+  "description": "A simplication of Web Audio API filters.",
+  "version": "0.0.3",
+  "keywords": [
+    "web-audio",
+    "filter",
+    "effect",
+    "lowpass",
+    "highpass"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
